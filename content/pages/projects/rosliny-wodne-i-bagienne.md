@@ -4,8 +4,12 @@ title: Rośliny wodne i bagienne
 date: '2025-01-25'
 client: ''
 description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  W polskich jeziorach i rzekach królują grzybienie białe, znane jako lilie
+  wodne, które dodają uroku spokojnym wodom. Na mokradłach spotykamy trzcinę
+  pospolitą oraz unikalne rośliny, takie jak rosiczka, która odżywia się
+  owadami. Torfowiska są naturalnymi magazynami węgla i pełnią ważną rolę w
+  regulacji klimatu. Niestety, osuszanie mokradeł zagraża tym delikatnym
+  ekosystemom. Warto edukować się o ich znaczeniu i wspierać ich ochronę.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
