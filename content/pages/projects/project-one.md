@@ -9,7 +9,7 @@ description: >-
   podwodne życie, które zadziwia
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/pike-2276178_1920.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
