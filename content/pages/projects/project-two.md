@@ -9,7 +9,7 @@ description: >-
   polskich lasach, łąkach i miastach
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/deer-5406930_1920.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
