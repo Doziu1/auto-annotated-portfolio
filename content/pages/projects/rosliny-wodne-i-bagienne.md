@@ -22,7 +22,7 @@ addTitleSuffix: true
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/Projekt bez nazwy (38).png
+  url: /images/Projekt bez nazwy (39).png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
