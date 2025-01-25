@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: 'Wielcy i mali mieszkańcy lasów: Ssaki Polski'
+title: Od majestatycznych żubrów po zwinne nietoperze
 colors: colors-a
 date: '2021-12-20'
 client: Awesome client
