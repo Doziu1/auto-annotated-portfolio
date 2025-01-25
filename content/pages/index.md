@@ -5,7 +5,7 @@ colors: colors-a
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: full
+    backgroundSize: inset
     title: Fauna i flora wybranych rejonów Polski
     subtitle: >-
       Poznaj bogactwo przyrodnicze naszego kraju! Dowiedz się więcej o
