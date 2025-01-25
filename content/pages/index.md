@@ -108,7 +108,7 @@ sections:
           width: 1/2
           type: EmailFormControl
         - name: updatesConsent
-          label: Sign me up to recieve updates
+          label: Chcę dostawać newsletter
           isRequired: false
           width: full
           type: CheckboxFormControl
