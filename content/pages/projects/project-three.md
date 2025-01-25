@@ -3,7 +3,7 @@ type: ProjectLayout
 title: 'Na skrzydłach wolności: Ptaki Polski'
 colors: colors-a
 date: '2022-01-22'
-client: Awesome client
+client: ''
 description: >-
   Bociany na polskich łąkach, orły szybujące nad górami i wróble, które
   zadomowiły się w naszych miastach
