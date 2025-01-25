@@ -81,7 +81,7 @@ sections:
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
-    title: Chciałbyś dostawać więcej informacji o Faunie i Florze w Polsce
+    title: Chciałbyś dostawać więcej informacji o Faunie i Florze w Polsce?
     form:
       type: FormBlock
       elementId: sign-up-form
