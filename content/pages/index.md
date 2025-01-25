@@ -76,7 +76,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: zobacz co przygotowalismy
+    subtitle: zobacz co przygotowaliśmy
     title: Nasze wpisy
   - type: FeaturedPostsSection
     elementId: ''
