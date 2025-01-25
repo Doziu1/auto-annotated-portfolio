@@ -53,7 +53,7 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "Szczegóły",
-            "phoneNumber": "850-123-5021",
+            "phoneNumber": "850-123-502",
             "phoneAltText": "My phone number",
             "email": "thisismyemail.@myemail.me",
             "emailAltText": "My email",
