@@ -12,7 +12,7 @@ description: >-
   ekosystemom. Warto edukować się o ich znaczeniu i wspierać ich ochronę.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/yellow-water-lily-7253137_1920.jpg
   altText: Project thumbnail image
   caption: ''
   elementId: ''
