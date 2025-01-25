@@ -1,8 +1,6 @@
 ---
 type: ProjectLayout
-title: >-
-  Od majestatycznych żubrów po zwinne nietoperze – różnorodność ssaków w
-  polskich lasach, łąkach i miastach
+title: ''
 colors: colors-a
 date: '2021-12-20'
 client: Awesome client
