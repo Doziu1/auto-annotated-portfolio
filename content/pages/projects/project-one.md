@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Podwodny świat Polski
 colors: colors-a
 date: '2021-10-15'
-client: Awesome client
+client: ''
 description: >-
   Żółw błotny na bagnach, żaba moczarowa w jeziorach i ryby w polskich rzekach –
   podwodne życie, które zadziwia
