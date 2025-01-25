@@ -4,7 +4,9 @@ title: ''
 colors: colors-a
 date: '2021-12-20'
 client: Awesome client
-description: Od majestatycznych żubrów po zwinne nietoperze
+description: >-
+  Od majestatycznych żubrów po zwinne nietoperze – różnorodność ssaków w
+  polskich lasach, łąkach i miastach
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
