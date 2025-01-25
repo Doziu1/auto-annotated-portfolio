@@ -89,7 +89,7 @@ sections:
         - name: Imię
           label: Imię
           hideLabel: true
-          placeholder: First Name
+          placeholder: Imię
           isRequired: true
           width: 1/2
           type: TextFormControl
