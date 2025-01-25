@@ -9,7 +9,7 @@ description: >-
   zadomowiły się w naszych miastach
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/stork-7301068_1920.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
