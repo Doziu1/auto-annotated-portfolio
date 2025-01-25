@@ -19,5 +19,5 @@ media:
   caption: Caption of the image
   elementId: ''
 addTitleSuffix: true
-colors: colors-e
+colors: colors-a
 ---
