@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Rośliny chronione w Polsce
 date: '2025-01-25'
-client: Awesome client
+client: ''
 description: >-
   Pełnik europejski, storczyki i sasanka łąkowa – gatunki roślin, które chronimy
   dla przyszłych pokoleń
