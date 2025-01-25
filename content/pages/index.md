@@ -86,7 +86,7 @@ sections:
       type: FormBlock
       elementId: sign-up-form
       fields:
-        - name: firstName
+        - name: Imie
           label: Imię
           hideLabel: true
           placeholder: First Name
