@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Fauna i flora wybranych rejonów Polski
-    subtitle: ''
+    subtitle: asddasdasd
     styles:
       self:
         height: auto
