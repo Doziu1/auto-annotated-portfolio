@@ -14,7 +14,11 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Fauna i flora wybranych rejonów Polski
-    subtitle: asddasdasd
+    subtitle: >-
+      Poznaj bogactwo przyrodnicze naszego kraju! Dowiedz się więcej o
+      unikalnych roślinach i zwierzętach występujących w różnych częściach
+      Polski – od górskich lasów Tatr, przez nadmorskie wydmy Bałtyku, aż po
+      rozległe równiny Mazowsza. 
     styles:
       self:
         height: auto
