@@ -21,3 +21,9 @@ media:
 addTitleSuffix: true
 colors: colors-a
 ---
+W Polsce wiele roślin jest objętych ochroną prawną, by zapobiec ich wyginięciu. Należą do nich m.in. storczyki, pełnik europejski oraz sasanka łąkowa. Są to gatunki rzadkie i wymagające specyficznych warunków do przetrwania. Działania ochronne, takie jak tworzenie rezerwatów przyrody i ograniczanie ingerencji człowieka, pomagają chronić te unikalne gatunki. Pamiętaj, aby nigdy nie zrywać chronionych roślin i zawsze szanować naturę.
+
+
+
+
+
