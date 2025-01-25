@@ -16,13 +16,13 @@
             },
             {
                 "type": "Link",
-                "label": "Blog",
-                "url": "/blog"
+                "label": "Projekty",
+                "url": "/projects"
             },
             {
                 "type": "Link",
-                "label": "Projekty",
-                "url": "/projects"
+                "label": "Blog",
+                "url": "/blog"
             }
         ],
         "socialLinks": [],
