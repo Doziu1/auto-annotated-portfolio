@@ -77,6 +77,7 @@ sections:
       actions:
         justifyContent: flex-end
     subtitle: ''
+    title: Nasze wpisy
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
