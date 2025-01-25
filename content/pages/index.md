@@ -50,7 +50,7 @@ sections:
     showDescription: true
     showFeaturedImage: true
     showReadMoreLink: true
-    variant: variant-b
+    variant: variant-c
     projects:
       - content/pages/projects/project-two.md
       - content/pages/projects/project-three.md
