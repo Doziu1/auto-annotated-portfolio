@@ -110,7 +110,7 @@ sections:
         - name: address
           label: Address
           hideLabel: true
-          placeholder: Address
+          placeholder: Addres
           isRequired: true
           width: 1/2
           type: TextFormControl
