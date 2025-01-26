@@ -26,3 +26,6 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 ---
+
+Polskie łąki to raj dla miłośników przyrody. Spotkamy tam maki polne, chabry bławatki, stokrotki oraz wiele ziół, takich jak dziurawiec czy mięta. Łąki nie tylko cieszą oczy, ale także są kluczowym siedliskiem dla owadów, ptaków i małych ssaków. Niestety, intensyfikacja rolnictwa doprowadziła do zaniku wielu kwietnych łąk. Powrót do tradycyjnych metod uprawy i zakładanie łąk kwietnych to krok w stronę ochrony tych ekosystemów.
+
