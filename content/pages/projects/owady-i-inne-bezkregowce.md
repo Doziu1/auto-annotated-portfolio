@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Owady i inne bezkręgowce
 date: '2025-01-25'
-client: Awesome client
+client: ''
 description: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
