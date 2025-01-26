@@ -5,11 +5,7 @@ sections:
   - type: HeroSection
     title: Kim jesteśmy?
     subtitle: ''
-    text: >-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: "Jesteśmy grupą miłośników przyrody, którzy wierzą, że piękno polskiej fauny i flory zasługuje na szczególną uwagę i ochronę. Naszym celem jest edukacja, inspiracja i zwiększanie świadomości na temat bogactwa natury w Polsce.\n\nNa tej stronie znajdziesz informacje o zwierzętach, roślinach i ekosystemach, które czynią Polskę wyjątkowym miejscem. Chcemy, aby każdy, kto tu zajrzy, zrozumiał, jak ważna jest równowaga w przyrodzie i jak wiele możemy zrobić, aby ją chronić.\n\nWierzymy, że poprzez dzielenie się wiedzą i pięknem przyrody, możemy zainspirować innych do działania – od prostych gestów, takich jak zakładanie kwietnych łąk, po większe inicjatywy, jak ochrona zagrożonych gatunków.\n\n**Dołącz do nas!**\nZapraszamy do wspólnego odkrywania polskiej przyrody i dzielenia się swoimi historiami, zdjęciami oraz pomysłami. Razem możemy zrobić wiele dla naszej planety i przyszłych pokoleń.\n\n**Nasza misja:**\n\n*   Edukować o różnorodności polskiej fauny i flory.\n\n*   Wspierać ochronę przyrody poprzez informowanie o zagrożeniach i rozwiązaniach.\n\n*   Inspirować do kontaktu z naturą i jej aktywnej ochrony.\n\nZachwyć się naturą, zrozum jej wartość, działaj dla jej dobra. \U0001F33F\n\n\n\n"
     actions: []
     media:
       type: ImageBlock
