@@ -11,7 +11,7 @@
             {
                 "type": "Link",
                 "label": "Wpisy",
-                "url": "faunaiflora.online/projects",
+                "url": "/projects",
                 "showIcon": false
             },
             {
