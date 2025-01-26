@@ -79,7 +79,7 @@ sections:
     subtitle: zobacz co przygotowaliśmy
     title: Nasze wpisy
   - type: ContactSection
-    colors: colors-b
+    colors: colors-a
     backgroundSize: full
     title: Chciałbyś dostawać więcej informacji o Faunie i Florze w Polsce?
     form:
