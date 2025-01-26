@@ -28,3 +28,6 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 ---
+
+Owady pełnią kluczową rolę w przyrodzie, zapylając rośliny i uczestnicząc w rozkładzie materii organicznej. W Polsce żyją setki gatunków owadów, w tym piękne motyle, jak paź królowej, oraz pożyteczne pszczoły miodne. Na łąkach można spotkać koniki polne i chrząszcze, a w lasach mrówki tworzące imponujące kopce. Niestety, populacje owadów spadają z powodu pestycydów i utraty siedlisk. Zakładanie kwietnych łąk i hoteli dla owadów może pomóc odwrócić ten trend.
+
