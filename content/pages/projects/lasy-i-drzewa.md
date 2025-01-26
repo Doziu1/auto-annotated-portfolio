@@ -6,7 +6,7 @@ client: ''
 description: Dąb Bartek i inne skarby naszych lasów
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/oak-354641_1920.jpg
   altText: Project thumbnail image
   caption: ''
   elementId: ''
