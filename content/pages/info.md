@@ -136,7 +136,7 @@ sections:
           isRequired: true
           width: full
           type: TextareaFormControl
-      submitLabel: " \U0001F680"
+      submitLabel: "Wyślij \U0001F680"
       styles:
         submitLabel:
           textAlign: center
