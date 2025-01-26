@@ -6,7 +6,7 @@ client: ''
 description: Od maków po chabry – piękno roślinności łąkowej
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/flowers-7119602_1920.jpg
   altText: Project thumbnail image
   caption: ''
   elementId: ''
