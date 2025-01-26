@@ -18,6 +18,16 @@
                 "type": "Link",
                 "label": "Kontakt",
                 "url": "/about"
+            },
+            {
+                "type": "Link",
+                "label": "Learn more",
+                "altText": "",
+                "url": "/onas",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
             }
         ],
         "socialLinks": [],
