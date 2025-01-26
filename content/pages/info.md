@@ -59,8 +59,35 @@ sections:
     variant: variant-a
     subtitle: 'Kontakt:'
     colors: colors-f
-    text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+    text: >+
+      Masz pytania dotyczące polskiej przyrody? A może chcesz podzielić się
+      swoimi obserwacjami lub pomysłami? Zapraszamy do kontaktu! Jesteśmy
+      otwarci na współpracę i chętnie odpowiemy na każde pytanie.
+
+
+      **Dane kontaktowe:**
+
+
+      *   **Telefon:** 850-123-502
+
+
+      *   **E-mail:** [amelialawreszuk@gmail.com]()
+
+
+      *   **Adres:**
+          ul. Lipowa 7,
+          15-774 Białystok
+
+      **Godziny pracy:**
+
+      Poniedziałek - Piątek: 9:00 - 17:00
+
+      Sobota: 10:00 - 14:00
+
+      Niedziela: Zamknięte
+
+
+
   - type: DividerSection
     styles:
       self:
