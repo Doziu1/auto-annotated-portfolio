@@ -1,6 +1,5 @@
 {
     "type": "Config",
-    "favicon": "/images/favicon.svg",
     "header": {
         "type": "Header",
         "headerVariant": "variant-b",
@@ -11,13 +10,23 @@
             {
                 "type": "Link",
                 "label": "Wpisy",
-                "url": "faunaiflora.online/projects",
+                "url": "/projects",
                 "showIcon": false
             },
             {
                 "type": "Link",
                 "label": "Kontakt",
-                "url": "/blog"
+                "url": "/info"
+            },
+            {
+                "type": "Link",
+                "label": "O nas",
+                "altText": "",
+                "url": "/onas",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
             }
         ],
         "socialLinks": [],
