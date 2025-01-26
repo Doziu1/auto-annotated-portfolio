@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - elementId: ''
-    colors: colors-f
+    colors: colors-a
     backgroundSize: full
     text: >+
       ## Cześć jeżeli chcesz się z nami skontaktować zadzwoń do nas lub napisz w
