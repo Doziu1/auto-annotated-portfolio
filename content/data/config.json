@@ -11,12 +11,12 @@
             {
                 "type": "Link",
                 "label": "Wpisy",
-                "url": "/info",
+                "url": "faunaiflora.online/projects",
                 "showIcon": false
             },
             {
                 "type": "Link",
-                "label": "Wpisy",
+                "label": "Kontakt",
                 "url": "/blog"
             }
         ],
