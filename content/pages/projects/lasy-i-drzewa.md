@@ -3,9 +3,7 @@ type: ProjectLayout
 title: Lasy i drzewa
 date: '2025-01-25'
 client: ''
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+description: ''
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
