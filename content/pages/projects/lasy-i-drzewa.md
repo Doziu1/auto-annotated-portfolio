@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Lasy i drzewa
 date: '2025-01-25'
 client: ''
-description: ''
+description: Dąb Bartek i inne skarby naszych lasów
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
