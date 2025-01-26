@@ -3,7 +3,9 @@ type: ProjectLayout
 title: Owady i inne bezkręgowce
 date: '2025-01-25'
 client: ''
-description: ''
+description: >-
+  Od pięknych motyli po pożyteczne pszczoły – jak owady i bezkręgowce budują
+  polskie ekosystemy
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
