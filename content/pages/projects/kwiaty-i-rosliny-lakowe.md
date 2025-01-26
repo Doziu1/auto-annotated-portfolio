@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Kwiaty i rośliny łąkowe
 date: '2025-01-25'
 client: ''
-description: ''
+description: Od maków po chabry – piękno roślinności łąkowej
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
