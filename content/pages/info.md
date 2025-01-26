@@ -91,7 +91,7 @@ sections:
   - type: ContactSection
     backgroundSize: full
     title: "Napisz do nas! \U0001F4AC"
-    colors: colors-f
+    colors: colors-c
     form:
       type: FormBlock
       elementId: sign-up-form
