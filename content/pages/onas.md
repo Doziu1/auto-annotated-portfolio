@@ -3,7 +3,7 @@ type: PageLayout
 title: onas
 sections:
   - type: HeroSection
-    title: Kim jesteśmy?
+    title: Kim jestem?
     subtitle: ''
     text: "Cześć! Nazywam się Amelia i jestem twórczynią tej strony. Moja miłość do przyrody towarzyszy mi od najmłodszych lat – zawsze fascynowały mnie polskie lasy, łąki i jeziora oraz niezwykłe zwierzęta i rośliny, które je zamieszkują.\n\nTa strona powstała z pasji do natury, ale także jako część projektu realizowanego w ramach zaliczenia zajęć z informatyki. Tworzenie tego miejsca było dla mnie nie tylko wyzwaniem technologicznym, ale także okazją do połączenia dwóch moich zainteresowań – przyrody i technologii.\n\nChciałabym, aby ta strona była nie tylko źródłem wiedzy o polskiej faunie i florze, ale także inspiracją do dbania o nasze środowisko. Mam nadzieję, że znajdziesz tu ciekawe informacje i że razem będziemy mogli szerzyć świadomość o tym, jak ważna jest ochrona natury.\n\nDziękuję za odwiedzenie mojej strony i za wspieranie tej inicjatywy! \U0001F60A\n\n\n\n\n\n"
     actions: []
